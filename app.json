@@ -1,11 +1,11 @@
 {
   "expo": {
-    "name": "mount",
-    "slug": "mount",
+    "name": "AmanTau",
+    "slug": "amantau",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
-    "scheme": "mount",
+    "scheme": "amantau",
     "userInterfaceStyle": "automatic",
     "ios": {
       "icon": "./assets/expo.icon"
